@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1709
+slug  : the-schwarzschild-radius
+seal  : 829571196fb86066244058cd8aae0b8c443710988c595be63466121443135436
+prev  : 7b1015044bd3f7f263206d2cb2ae1eac9efbc2cb63adbe4eb29e57dcce1e3907
+link  : cf96fcff3ba7f73a2182261b3fe3bf95851b53ca578bfd2294786b587897bf78
+head  : cf96fcff3ba7f73a2182261b3fe3bf95851b53ca578bfd2294786b587897bf78
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
